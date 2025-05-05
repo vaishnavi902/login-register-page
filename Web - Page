@@ -1,0 +1,14 @@
+# Login & Register Page
+
+This is a simple front-end project that demonstrates a login and registration popup form using HTML, CSS, and JavaScript.
+
+## Features
+- Popup form with login and register option
+- Styled using pure CSS
+- Icons using Ionicons
+
+## Usage
+Just open `project2.html` in a browser.
+
+## Author
+- [Vaishnavi](https://github.com/vaishnavi902)
